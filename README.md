@@ -22,6 +22,8 @@ To run the script go to the directory in which the downloaded data is there and 
       source('run_analysis.R')
 
  The R script  'run_analysis.R' does the following. 
+ 
+ (If you have already downloaded the data and unzipped it manually you should go the directoy where it is unzipped and run the script after commenting out the unzipping and setting the directory part of the script. If you don't have the data yet, you can uncomment the first line of code and run (in Windows machines); If you have zipped data you can just run the script after going to the directory where the data is.)
 
 1. Merges the training and the test sets to create one data set. The data set comes as two parts: the trainig set and
    the test set. We first combine them and variable names obtained from the file 'features'.
@@ -36,4 +38,4 @@ To run the script go to the directory in which the downloaded data is there and 
 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.    We included in the data file the number to specify the subjects who participated in the experiment as a variable.    From this processed data we wanted a summarised data containing only the averages of the variables considered, for    each activity and for each subject. Since there are 30 subjects and each participated in 6 activity measurements,    the summarised data contains 180 rows and 66 averages, one column to denote the subject and another one for the      activity and hence in total there are 68 columns in the processed final data.
 
-Now this data is clean and can be used further processing very easily. Each row is the data for each activity of each subject.
+Now this data is clean and can be used further processing very easily. Each row is the data for each activity of each subject. 

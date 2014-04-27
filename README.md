@@ -1,7 +1,7 @@
 CleaningData
 ============
 
-Samsung Galaxy S Smartphone data is cleaned and summarized at the activity and subject level
+## Samsung Galaxy S Smartphone data is cleaned and summarized at the activity and subject level
 
 
 

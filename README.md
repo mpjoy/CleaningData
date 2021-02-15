@@ -23,7 +23,7 @@ To run the script go to the directory in which the downloaded data is there and 
 
  The R script  'run_analysis.R' does the following. 
  
- (If you have already downloaded the data and unzipped it manually you should go the directoy where it is unzipped and run the script after commenting out the unzipping and setting the directory part of the script. If you don't have the data yet, you can uncomment the first line of code and run (in Windows machines); If you have zipped data you can just run the script after going to the directory where the data is.)
+ (If you have already downloaded the data and unzipped it manually you should go the directory where it is unzipped and run the script after commenting out the unzipping and setting the directory part of the script. If you don't have the data yet, you can uncomment the first line of code and run (in Windows machines); If you have zipped data you can just run the script after going to the directory where the data is.)
 
 1. Merges the training and the test sets to create one data set. The data set comes as two parts: the trainig set and
    the test set. We first combine them and variable names obtained from the file 'features'.

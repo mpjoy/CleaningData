@@ -70,4 +70,4 @@ names(tidydata) = names(total)
 # Since there were 30 subjects and 6 activities there are 180 rows in the 'tidydata'.
 
 write.table(tidydata, 'tidydata.txt',row.names=F,sep='\t');
-
+       

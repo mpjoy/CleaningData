@@ -109,4 +109,3 @@ In addition to the above mentioned 2*33=66 variables the dataset contains a colu
 67. "fBodyBodyGyroJerkMag.mean.."
 68. "fBodyBodyGyroJerkMag.std.."
 
-
